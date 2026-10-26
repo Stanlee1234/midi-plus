@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "midiplus.kicad_pro",
+    "filename": "KiCad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -409,11 +409,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "KiCad.kicad_sch",
+        "name": "Root",
+        "uuid": "6167c660-22bd-4277-8e78-3bdeea728387"
+      }
+    ],
+    "used_designators": "RV1-2,SW1-4,R1-12,D1-3,#PWR1-12,A1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "6167c660-22bd-4277-8e78-3bdeea728387",
+      "Root"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
