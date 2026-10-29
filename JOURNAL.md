@@ -49,4 +49,9 @@ Here are some of the other parts that I added:
 ![Screenshot 2026-10-28 at 20.01.38](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/5220c9538a3656e4e986b72dd8978d57c4eacf6b908db36787f7d05e4e4ded50.png)
 The board!!!
 
+I also added in all of the footprints, (except for the touch keys)
+
+![Screenshot 2026-10-28 at 20.02.31](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/505fafd4a2157ed3349b376a04a51ea8b300b5437c43716151dad24b87aec049.png)
+
+It took me like a really long time to find the RPi pico schematic, as snapmagic was loading really slowly, and not letting me download the files. After trying for like 20 minutes or so, I just tried using a less detailed model of it, but I think it would work.
 Ok, thats it for this devlog. Byeeee!!!
