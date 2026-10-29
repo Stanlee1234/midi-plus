@@ -25,6 +25,15 @@
 **5.3h**
 
 # Devlog 1: Getting started!
+
+-- NOTE TO REVIEWERS --
+
+Hey! Thanks for reviewing my project. Essentially, I missed the deadline without logging, so I'm just speed logging rn. Here's a ss:
+
+![Screenshot 2026-10-28 at 22.19.32](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/cea0ed53014969ea2751974ac42d81fc1b5706e480e3c2f3c6689300e81c79cd.png)
+
+-- That's it for y'all, thanks for reviewing! --
+
 Hey! I finished on the Schematic and most of the footprint assignment.
 
 Firstly, I started with the basic Waveshare ESP32-S3-ZERO, but soon found out that using 12 keys needed a lot more spots. I did some research online, and I filtered it down to one section: The Raspberry Pi Pico's. They are
