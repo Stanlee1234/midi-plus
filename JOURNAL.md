@@ -123,14 +123,14 @@ Ok, so I spent another chunk of time making a case for my Midi board. It looks A
 
 Mostly, I just spent time trying to get the specific details in, which I spent some time looking up. Below, I put some renders:
 
-![Screenshot 2026-10-29 at 23.08.57](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/ea8afe7565032fd82d7130af1d76cf8d34bd017cae7bf7babbb07c90e3b2ad90.png)
-
-![Screenshot 2026-10-29 at 23.09.09](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/5da0ea1d4296c9541a5f1756c3d922ddb8a31f758b87a333b50bc31864b5cde5.png)
-
 ![render1](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/70d6d0826a5020420553b7a11b0f2d64ff6b30a0649f63268316f70e55979393.png)
 
 ![render2](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/2513f8aca903f4dbf83d0b0c5ad8216b916317e8aed4c6b85095ce979a85c299.png)
 
-![render3](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/d8a465a50e79fd226972c4102568047cdd6c212e3a1629d20ddc3d6d0babf6ef.png)
-
 ![render4](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/ab1278ad51b7c086e550519263d1db9132faa14da76679e317406d196df9c990.png)
+
+![render5](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/1e2ddaf17efc870436ae1a8f3baa92dc5c3c69b687e98fd230fdb393dbb32f7a.png)
+
+![render6](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/4df1dad4a240281f33614ee302edcb91e3ad80f0740b9b19d18d5e3111d386a4.png)
+
+![render3](https://halflife.hackclub-assets.com/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/d8a465a50e79fd226972c4102568047cdd6c212e3a1629d20ddc3d6d0babf6ef.png)
