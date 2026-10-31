@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_Unspecified,1,RaspberryPi_Pico,
+"D1, D2, D3",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,3,SK6812MINI-E,
+J1,Capacitive Keys_Aligned,1,Capacitive Touch Buttons,
+"R1, R10, R11, R12, R2, R3, R4, R5, R6, R7, R8, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,12,1M,
+"RV1, RV2",Potentiometer_Bourns_PTA1543_Single_Slide,2,Slider,
+"SW1, SW2, SW3",Kailh Choc Low-Profile Switches,3,SW_Push,
+SW4,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,

@@ -1,2 +1,8 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Custom PCB (midi-plus 177x114mm 5 pcs incl. JLCPCB shipping & coupon),1,JLCPCB,$16.42,$16.42,https://jlcpcb.com/
+Raspberry Pi Pico (RP2040 Microcontroller Board USB-C),1,AliExpress,$2.30,$2.30,https://www.aliexpress.com/item/1005006067365069.html
+Kailh Choc Low-Profile Switches V1 (PG1350 Pro Red),3,AliExpress,$0.55,$1.65,https://www.aliexpress.com/item/1005008883418065.html
+EC11 Rotary Encoder with Push Button (20mm D-Shaft),1,AliExpress,$1.40,$1.40,https://www.aliexpress.us/item/3256807457768762.html
+SK6812MINI-E Reverse Mount Addressable RGB LEDs,1,AliExpress,$3.36,$3.36,https://www.aliexpress.us/item/3256807677321116.html
+Bourns PTA1543 Compatible 10K Slide Potentiometer (15mm Stroke),2,AliExpress,$0.85,$1.70,https://www.aliexpress.com/item/1005009934623488.html
+Estimated Shipping (AliExpress Choice Free on orders over $10),1,AliExpress,$0.00,$0.00,https://www.aliexpress.com/
